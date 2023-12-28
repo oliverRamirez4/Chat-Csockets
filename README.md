@@ -1,0 +1,1 @@
+This is a multithreaded chat server and client code. The server can host multiple clients by creating a thread for each client. The client has a thread for sending and a thread for recieving messages. We hosted this program on the MCSCN computer owned by Colorado College
